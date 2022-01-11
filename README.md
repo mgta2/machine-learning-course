@@ -14,10 +14,9 @@ The course uses Numpy, Pandas, Matplotlib, Seaborn and Sklearn packages. The not
 6. Decision Trees: Spam detection & Validation Curves
 7. Cross Validation, Hyper-Parameter Tuning (GridSearch & RandomSearch)
 8. Ensemble Methods (AdaBoost & RandomForest): Digit Classification
-9_1. Data Processing/Cleaning: Website Business Customers
-9_2. Pipelines & NLP: Classifying News
-11. Clustering (KMeans & DBSCAN, Silhouette Score): Customer Data
-12. Dimensionality Reduction (PCA): Customer Data
+9. (a) Data Processing/Cleaning: Website Business Customers (b) Pipelines & NLP: Classifying News
+10. Clustering (KMeans & DBSCAN, Silhouette Score): Customer Data
+11. Dimensionality Reduction (PCA): Customer Data
 
 ## Capstone Project
 
